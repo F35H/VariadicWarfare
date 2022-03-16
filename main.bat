@@ -45,6 +45,7 @@ echo Armed with a new body, a new world, a new gun, and the same wits you must l
 echo navigate both philosophically and phisically this new adventure.
 echo
 echo - F35H
+echo.
 
 pause
 call :MainMenu

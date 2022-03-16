@@ -1,5 +1,8 @@
 @echo off
 
+call :vrgrb
+exit /b
+
 cls
 call :padding
 echo  ^<-----=====^<Stage 1^>=====-----^>
@@ -73,3 +76,14 @@ call :padding
 :rslt
 set /a i = 0
 exit /b
+
+:vrgrb
+set /a lpct = 0
+for /f %%n in (gameStats.txt) do (
+set /a a[%lpct%] = %%n
+call :vrrslt) 
+exit /b
+:vrrslt
+set /a lpct += 1 
+exit /b 
+
