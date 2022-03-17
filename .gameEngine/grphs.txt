@@ -1,0 +1,5 @@
+sin(x)
+cos(x)
+tan(x)
+cotan(x)
+e^x -e^x e^-x -e^-x ln(x) -ln(x) ln(x) log(x) -log(x) log(x^2) -log(x^-2) log(x/2) -log(x/2) log(2/x) -log(2/x)
