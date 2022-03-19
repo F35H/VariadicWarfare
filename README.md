@@ -16,3 +16,9 @@ for their wars on their battlefields complete with an altered view of the univer
 
 Armed with a new body, a new world, a new gun, and the same wits you must learn how to 
 navigate both philosophically and phisically this new adventure.
+
+Update, March 19th: for now this project is canceled. I have decided that batch, while likely able to do what
+I'm trying to do, is far too frustratingly limited. I am interested in returning to this if I decide to
+pick up VBS or return to bash. I have learned what I wanted to learn, and I'm happy for that. Now,
+I'll work on the project I originally wanted to learn batch for which honestly will probably waste
+much less time than I did here.
